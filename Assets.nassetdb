@@ -1,0 +1,25 @@
+{
+    "069c291e-4180-1d0c-d1c8-d36f51ae9467": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "2b25e6a5-2670-4941-a325-b01bfc63c3ae": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Empire City.scene.nasset"
+    },
+    "596fb36b-5c17-4f9a-8528-f3cd2a90c5e8": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Empire City",
+        "thumbnail": "d0753183-a16a-de91-9598-d36bbc19f0d8",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
+    },
+    "d0753183-a16a-de91-9598-d36bbc19f0d8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Empire_City_Thumb.tex.nasset"
+    },
+    "guid": "069c291e-4180-1d0c-d1c8-d36f51ae9467"
+}

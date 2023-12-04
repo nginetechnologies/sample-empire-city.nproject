@@ -2,7 +2,7 @@
     "name": "Empire City",
     "description": "Real city streets based on NY",
     "guid": "596fb36b-5c17-4f9a-8528-f3cd2a90c5e8",
-	"database_guid": "",
+	"database_guid": "069c291e-4180-1d0c-d1c8-d36f51ae9467",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -13,9 +13,9 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "9688d85f-2a14-4148-81a3-90ebc8bca036",
-    "default_scene": "dbe4c05e-6903-4d8f-846f-870eaf0ab4b7",
-    "tags": [ "45357df6-1685-4d22-a3a4-779b31a7e1bf" ],
+    "thumbnail_guid": "d0753183-a16a-de91-9598-d36bbc19f0d8",
+    "default_scene": "2b25e6a5-2670-4941-a325-b01bfc63c3ae",
+    "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
     "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
